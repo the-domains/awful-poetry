@@ -1,7 +1,7 @@
 name: Awful Poetry
 favicon: null
-layout_spectrum: 0.9564587059430778
-typography_spectrum: 0.9265487908851355
+layout_spectrum: 0
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ded4cc'
+    - '#b0a39b'
+    - '#9f7f6d'
+    - '#533931'
+    - '#d83d36'
   brandStrength: 0.8548678702209145
   lightness: 0.3518281646538526
   saturation: 0.5840419849846512
