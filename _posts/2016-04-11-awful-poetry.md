@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Awful Poetry
-datePublished: '2016-04-11T01:13:00.434Z'
-dateModified: '2016-04-11T01:12:42.827Z'
+datePublished: '2016-04-11T01:14:20.147Z'
+dateModified: '2016-04-11T01:13:06.711Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-11-awful-poetry.md
