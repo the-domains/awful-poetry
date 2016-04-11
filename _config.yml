@@ -2,6 +2,7 @@ name: Awful Poetry
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0
+title: Awful Poetry
 cta:
   domain: null
   bucket: null
