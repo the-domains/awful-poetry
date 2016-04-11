@@ -4,7 +4,7 @@
         <description><![CDATA[Awful Poetry]]></description>
         <link>https://thegrid.ai/awful-poetry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 01:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 01:14:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/awful-poetry/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/awful-poetry/awful-poetry/index.html</link>
             <guid isPermaLink="false">2a50fdc1-f365-4897-9a45-67f45de15e42</guid>
             <pubDate>Mon, 11 Apr 2016 01:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Dump]]></title>
-            <description><![CDATA[<h1>Big Dump</h1>]]></description>
-            <link>https://thegrid.ai/awful-poetry/big-dump/index.html</link>
-            <guid isPermaLink="false">fe1b4ff9-f685-4161-856f-5a2d14755fce</guid>
-            <pubDate>Mon, 11 Apr 2016 01:06:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
