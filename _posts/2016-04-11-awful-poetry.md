@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Awful Poetry
-datePublished: '2016-04-11T01:12:39.118Z'
-dateModified: '2016-04-11T01:12:24.984Z'
+datePublished: '2016-04-11T01:13:00.434Z'
+dateModified: '2016-04-11T01:12:42.827Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-11-awful-poetry.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-awful-poetry.md
-published: true
 url: awful-poetry/index.html
 _type: Article
 
