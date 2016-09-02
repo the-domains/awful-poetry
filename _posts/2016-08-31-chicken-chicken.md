@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-31T12:45:15.519Z'
+datePublished: '2016-08-31T12:45:47.459Z'
+sourcePath: _posts/2016-08-31-chicken-chicken.md
 author: []
 via: {}
-dateModified: '2016-08-31T12:45:00.294Z'
+dateModified: '2016-08-31T12:45:47.125Z'
 title: Chicken chicken
 publisher: {}
-description: 'Chicken chicken, finger lickin’'
+description: ''
 starred: false
-sourcePath: _posts/2016-08-31-chicken-chicken.md
 inFeed: true
 hasPage: true
 inNav: false
