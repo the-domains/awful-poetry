@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-08-31T13:51:29.278Z'
+datePublished: '2016-08-31T14:32:55.614Z'
+sourcePath: _posts/2016-08-31-freight-train.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T13:50:52.567Z'
+dateModified: '2016-08-31T14:32:53.953Z'
 title: Freight Train
 publisher: {}
 description: 'Freight train comin’ '
 starred: false
-sourcePath: _posts/2016-08-31-freight-train.md
-inFeed: true
-hasPage: true
-inNav: false
 url: freight-train/index.html
 _context: 'http://schema.org'
 _type: Article
