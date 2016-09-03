@@ -1,20 +1,4 @@
-name: Awful Poetry
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0
-title: Awful Poetry
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ded4cc'
@@ -26,4 +10,24 @@ color:
   lightness: 0.3518281646538526
   saturation: 0.5840419849846512
   rhythmicContrast: 0.16042670514434576
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Awful Poetry
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Big Dump
+    id: 69af740e-8c57-40e3-bd90-7b5eb1ae966b
+    type: content
+favicon: null
+title: Awful Poetry
 purpose: []
